@@ -26,6 +26,7 @@
 # for any persistent needs. Defaults to LOGSTASH_HOME/data
 #
 path.data: /var/lib/logstash
+#edited
 #
 # ------------ Pipeline Settings --------------
 #
